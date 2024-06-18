@@ -5,7 +5,7 @@ Meu nome é Awder
 - Estou estudando na plataforma [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
-- Trabalho com arquitetura 
+- Trabalho com Arquitetura 
  
 ### Para mais informação sobre o meu trabalho entre em contato 📬
 
